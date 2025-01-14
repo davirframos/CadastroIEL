@@ -1,0 +1,15 @@
+C:\Users\franc\source\repos\CadastroIEL\CadasreoIEL.UseCases\obj\Debug\net8.0\CadasreoIEL.UseCases.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\CadastroIEL\CadasreoIEL.UseCases\obj\Debug\net8.0\CadasreoIEL.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\CadastroIEL\CadasreoIEL.UseCases\obj\Debug\net8.0\CadasreoIEL.UseCases.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\CadastroIEL\CadasreoIEL.UseCases\obj\Debug\net8.0\CadasreoIEL.UseCases.AssemblyInfo.cs
+C:\Users\franc\source\repos\CadastroIEL\CadasreoIEL.UseCases\obj\Debug\net8.0\CadasreoIEL.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\CadastroIEL\CadasreoIEL.UseCases\bin\Debug\net8.0\CadasreoIEL.UseCases.deps.json
+C:\Users\franc\source\repos\CadastroIEL\CadasreoIEL.UseCases\bin\Debug\net8.0\CadasreoIEL.UseCases.dll
+C:\Users\franc\source\repos\CadastroIEL\CadasreoIEL.UseCases\bin\Debug\net8.0\CadasreoIEL.UseCases.pdb
+C:\Users\franc\source\repos\CadastroIEL\CadasreoIEL.UseCases\bin\Debug\net8.0\CadastroIEL.Infrastructure.dll
+C:\Users\franc\source\repos\CadastroIEL\CadasreoIEL.UseCases\bin\Debug\net8.0\CadastroIEL.Infrastructure.pdb
+C:\Users\franc\source\repos\CadastroIEL\CadasreoIEL.UseCases\obj\Debug\net8.0\Cadasreo.58253BFE.Up2Date
+C:\Users\franc\source\repos\CadastroIEL\CadasreoIEL.UseCases\obj\Debug\net8.0\CadasreoIEL.UseCases.dll
+C:\Users\franc\source\repos\CadastroIEL\CadasreoIEL.UseCases\obj\Debug\net8.0\refint\CadasreoIEL.UseCases.dll
+C:\Users\franc\source\repos\CadastroIEL\CadasreoIEL.UseCases\obj\Debug\net8.0\CadasreoIEL.UseCases.pdb
+C:\Users\franc\source\repos\CadastroIEL\CadasreoIEL.UseCases\obj\Debug\net8.0\ref\CadasreoIEL.UseCases.dll

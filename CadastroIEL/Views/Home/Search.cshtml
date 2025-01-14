@@ -1,0 +1,53 @@
+﻿@model List<CadastroIEL.Infrastructure.Models.Cadastro>
+
+@{
+    ViewData["Title"] = "Search Cadastro";
+}
+
+<h2>Search Cadastro</h2>
+
+<form asp-action="Search" method="get">
+    <div>
+        <label for="nome">Nome</label>
+        <input name="nome" id="nome" value="@Context.Request.Query["nome"]" class="form-control" />
+    </div>
+    <div>
+        <label for="cpf">CPF</label>
+        <input name="cpf" id="cpf" value="@Context.Request.Query["cpf"]" class="form-control" />
+    </div>
+    <div>
+        <label for="dataConclusao">Data de Conclusão</label>
+        <input name="dataConclusao" id="dataConclusao" value="@Context.Request.Query["dataConclusao"]" class="form-control" type="number" />
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+@if (Model != null && Model.Any())
+{
+    <h3>Search Results</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>CPF</th>
+                <th>Endereço</th>
+                <th>Data de Conclusão</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var cadastro in Model)
+            {
+                <tr>
+                    <td>@cadastro.Nome</td>
+                    <td>@cadastro.CPF</td>
+                    <td>@cadastro.Endereco</td>
+                    <td>@cadastro.DataConclusao</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No results found.</p>
+}

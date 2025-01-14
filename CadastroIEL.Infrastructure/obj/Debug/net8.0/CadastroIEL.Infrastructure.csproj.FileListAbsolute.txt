@@ -1,0 +1,14 @@
+C:\Users\franc\source\repos\CadastroIEL\CadastroIEL.Infrastructure\obj\Debug\net8.0\CadastroIEL.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\CadastroIEL\CadastroIEL.Infrastructure\obj\Debug\net8.0\CadastroIEL.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\CadastroIEL\CadastroIEL.Infrastructure\obj\Debug\net8.0\CadastroIEL.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\CadastroIEL\CadastroIEL.Infrastructure\obj\Debug\net8.0\CadastroIEL.Infrastructure.AssemblyInfo.cs
+C:\Users\franc\source\repos\CadastroIEL\CadastroIEL.Infrastructure\obj\Debug\net8.0\CadastroIEL.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\CadastroIEL\CadastroIEL.Infrastructure\bin\Debug\net8.0\CadastroIEL.Infrastructure.deps.json
+C:\Users\franc\source\repos\CadastroIEL\CadastroIEL.Infrastructure\bin\Debug\net8.0\CadastroIEL.Infrastructure.dll
+C:\Users\franc\source\repos\CadastroIEL\CadastroIEL.Infrastructure\bin\Debug\net8.0\CadastroIEL.Infrastructure.pdb
+C:\Users\franc\source\repos\CadastroIEL\CadastroIEL.Infrastructure\obj\Debug\net8.0\CadastroIEL.Infrastructure.dll
+C:\Users\franc\source\repos\CadastroIEL\CadastroIEL.Infrastructure\obj\Debug\net8.0\refint\CadastroIEL.Infrastructure.dll
+C:\Users\franc\source\repos\CadastroIEL\CadastroIEL.Infrastructure\obj\Debug\net8.0\CadastroIEL.Infrastructure.pdb
+C:\Users\franc\source\repos\CadastroIEL\CadastroIEL.Infrastructure\obj\Debug\net8.0\ref\CadastroIEL.Infrastructure.dll
+C:\Users\franc\source\repos\CadastroIEL\CadastroIEL.Infrastructure\bin\Debug\net8.0\CadastroIEL.Infrastructure.runtimeconfig.json
+C:\Users\franc\source\repos\CadastroIEL\CadastroIEL.Infrastructure\obj\Debug\net8.0\CadastroIEL.Infrastructure.genruntimeconfig.cache

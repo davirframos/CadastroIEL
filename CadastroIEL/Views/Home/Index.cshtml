@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model IEnumerable<CadastroIEL.Infrastructure.Models.Cadastro>
+
+<h1>Estudantes Cadastrados</h1>
+<table>
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>CPF</th>
+            <th>Endereço</th>
+            <th>Data de Conclusão</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nome</td>
+                <td>@item.CPF</td>
+                <td>@item.Endereco</td>
+                <td>@item.DataConclusao</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
